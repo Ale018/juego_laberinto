@@ -19,4 +19,4 @@ El producto final del desarrollo del juego se muestra en el siguiente enlace, el
 de unity.
 
 [Paquete del juego](https://drive.google.com/drive/folders/1kAInz-s7iBdr5wD7y7dYXTGDMHZq8EFz?usp=sharing)
-
+![image](https://github.com/Ale018/juego_laberinto/assets/106705670/ae56c328-cf75-47a4-9ee1-000b11399d9f)
