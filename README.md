@@ -1,7 +1,7 @@
 # Juego Laberinto Medieval
-Repositorio del juego en unity
+#Repositorio del juego en unity
 
-Introduccion
+##Introduccion
 En este documento el desarrollo del juego Laberinto Medieval, un juego de aventura que tiene como objetivo 
 superar los laberintos y llegar al cofre final, pero para ello necesitara de su destreza y no solo por 
 los laberintos si no para evitar trampas que le causaran daño.
@@ -16,5 +16,6 @@ funciono como un canal para mantener la comunicacion entre los integrantes.
 ## Paquete del juego en Drive
 El producto final del desarrollo del juego se muestra en el siguiente enlace, el cual contiene un paquete
 de unity.
+
 [Paquete del juego](https://drive.google.com/drive/folders/1kAInz-s7iBdr5wD7y7dYXTGDMHZq8EFz?usp=sharing)
 
