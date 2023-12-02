@@ -18,7 +18,7 @@ funciono como un canal para mantener la comunicacion entre los integrantes.
 El producto final del desarrollo del juego se muestra en el siguiente enlace, el cual contiene un paquete
 de unity.
 
-[Paquete del juego](https://drive.google.com/drive/folders/1kAInz-s7iBdr5wD7y7dYXTGDMHZq8EFz?usp=sharing)
+[Paquete del juego](https://drive.google.com/drive/folders/18hcuPiDFPJuZZ2Cgk63ZC0t9qxauNpFs?usp=sharing)
 
 
 
